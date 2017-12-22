@@ -1,4 +1,5 @@
-Project-1-Reflow-Oven-Controller
+<b>Project-1-Reflow-Oven-Controller</b>
+
 First Electrical Engineering project for ELEC 291 at UBC
 
 In this project:
